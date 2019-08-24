@@ -1,0 +1,59 @@
+h1{
+
+}
+body{
+  background-color:gold;
+}
+.logo{
+  width:120px;
+}
+h1 {font-size: largest}
+h1 {font-style: italic}
+.cloud {
+  position:absolute;
+  right: 20px;
+}
+.menu{
+  float:left;
+  position: absolute;
+  right:60px;
+}
+.land {
+position:relative;
+left:50px;
+}
+h1{
+  text-align: center;
+  font-style: italic;
+}
+h2{
+  text-align: center;
+  font-style: italic;
+  font-weight: 800;
+  font-size:100%;
+  font-family: cursive;
+}
+h3 {
+  text-align: center;
+}
+.fine {
+  width: 120px;
+}
+.gaint{
+width: 120px;
+}
+.peace{
+position: absolute;
+right: 20px;
+}
+.mercy{
+  width: 120px;
+}
+.great{
+position: absolute;
+right: 20px;
+}
+.faith{
+  position: absolute;
+  right: 20px;
+}
